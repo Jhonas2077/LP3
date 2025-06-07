@@ -1,0 +1,52 @@
+aula 1
+
+classe - molde, modelo que a partir dessa bagaça gera objetos, instancias
+métodos - ações
+atributos - características
+
+carro desligado ou ligado é um atributo
+agora ligar ou desligar são comportamentos, logo métodos, alteram o estado do objeto ou seja alterou os valores de seus atributos
+
+- significa que é privado, atributos que eu posso acessar somente em uma classe
++ significa que é publico para ter acesso aos atributos,
+# protegido, a diferença a única diferença é que a herança herda os atributos do pai e o privado não
+
+
+reutilização do código é a vantagem da orientação a objetos
+
+
+finally 
+{
+  	é executado sempre, significa que ativa dando alguma excessão no catch ou não , opcional
+  mas dependendo da situação é obrigatório,
+  imagine um sistema de banco, independente da excessão, tem que fechar a conexão com o banco
+
+ao invés de uma mensagem é possível realizar outras funcionalidades, como 
+
+}
+
+try{coloque_os_algoritmos_que_podem_dar_erro} e catch(coloque_o_nome_da_excessão e) {coloque_o_que_será_realizado}
+
+try e catch é obrigatório em algumas línguagens
+
+//
+throw new Exception("Não tente dividir por zero)
+
+
+
+braint - uma variação da linha do tempo para trabalhar em grupo num sistema
+
+git pull, git push
+
+
+
+add - comit - push
+
+git add .
+
+git commit -m "first commit"
+
+git push
+
+e dale meu nobre
+ 
